@@ -2,7 +2,7 @@
   "name": "Url-Uploader-V2",
   "description": "Telegram Bot to Upload URLs to Telegram as File and Video.",
   "keywords": [ "URL UPLOADER"],
-  "success_url": "https://t.me/Uploader_X_bot",
+  "success_url": "https://t.me/CyniteUploaderBot",
   "website": "https://github.com/CyniteOfficial",
   "repository": "https://github.com/CyniteOfficial/Url-Uploader-V2",
 
