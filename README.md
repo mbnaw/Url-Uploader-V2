@@ -1,6 +1,6 @@
-#### [UPLOADER-BOT](https://t.me/uploader_x_bot)
+#### [UPLOADER-BOT](https://t.me/CyniteUploaderBot)
 
-[![Size](https://img.shields.io/github/repo-size/Clinton-Abraham/UPLOADER-BOT?style=flat-square&color=green)](https://github.com/Clinton-Abraham/UPLOADER-BOT)
+[![Size](https://img.shields.io/github/repo-size/CyniteOffcial/Url-Uploader-V2?style=flat-square&color=green)](https://github.com/CyniteOfficial/Url-Uploader-V2)
 
 ---
 
@@ -28,15 +28,15 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 heroku/python
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Clinton-Abraham/UPLOADER-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/CyniteOfficial/Url-Uploader-V2)
 
 
-## 🍃 How To Get Mongodb URI - [ Watch Video ](https://youtu.be/YIYSby2PcfU)
+## 🍃 How To Get Mongodb URI - [ Watch Video ](Soon)
 
 
 ## 🚸 HEROKU CLI COMMANDS
 
-`* git clone https://github.com/Clinton-Abraham/UPLOADER-BOT.git`
+`* git clone https://github.com/CyniteOfficial/Url-Uploader-V2.git`
 
 `* heroku login`
 
@@ -61,19 +61,19 @@ heroku/python
 
 ## OTHER BOTS 🕊️
 
-* Rᴇɴᴀᴍᴇ x ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/rename_x_bot)
+* Rᴇɴᴀᴍᴇ ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/CyniteRenameBot)
 
-* Tᴏʀʀᴇɴᴛ x ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/torrent_x_bot)
+* ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/Zsearcherbot)
 
-* Uᴘʟᴏᴀᴅᴇʀ x ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/uploader_x_bot)
+* Uᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/CyniteUploaderBot)
 
-* Sʜᴏʀᴛɴᴇʀ x ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/shortner_x_bot)
+* ʟɪɴᴋ ᴛᴏ ғɪʟᴇ ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/CyniteFiletolinkBot)
 
 ## Credits, and Thanks to
 
 * [@SpEcHlDe](https://t.me/ThankTelegram) for his [AnyDLBot](https://telegram.dog/AnyDLBot)
 * [Dan Tès](https://t.me/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 * [Yoily](https://t.me/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
-* [@DC4_WARRIOR](https://t.me/Space_X_bots) it's me
+* [@CyniteOfficial](https://t.me/CyniteBots) it's me
 #### LICENSE
 - GPLv3
