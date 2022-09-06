@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """Hi {},
-I'm Cynite Uploader Bot!
+I'm Balouch Uploader Bot!
 You can upload HTTP/HTTPS direct link, Using this bot!
 
 /help for more details!"""
