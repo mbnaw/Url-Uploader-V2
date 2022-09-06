@@ -46,11 +46,11 @@ async def start(bot, update):
             [
                 [
                     InlineKeyboardButton(
-                        "Source code ⚡", url="https://github.com/CyniteOfficial/Url-Uploader-V2"
+                        "Source code ⚡", url="https://github.com"
                     ),
-                    InlineKeyboardButton("Project Channel 👨🏻‍💻", url="https://t.me/CyniteBots"),
+                    InlineKeyboardButton("Project Channel 👨🏻‍💻", url="https://t.me/balouchmm"),
                 ],
-                [InlineKeyboardButton("Developer 👨‍⚖️", url="https://t.me/cyniteoffcial")],
+                [InlineKeyboardButton("Developer 👨‍⚖️", url="https://t.me/@MMMM0B")],
             ]
         ),
         reply_to_message_id=update.message_id
