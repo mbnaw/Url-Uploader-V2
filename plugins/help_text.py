@@ -45,6 +45,8 @@ async def start(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
+                    InlineKeyboardButton(
+                        "Source code ⚡", url="https://github.com/mbnaw/Url-Uploader-V2"
                     ),
                     InlineKeyboardButton("Project Channel 👨🏻‍💻", url="https://t.me/balouchmm"),
                 ],
