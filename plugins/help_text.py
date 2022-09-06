@@ -45,12 +45,10 @@ async def start(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(
-                        "Source code ⚡", url="https://github.com"
                     ),
                     InlineKeyboardButton("Project Channel 👨🏻‍💻", url="https://t.me/balouchmm"),
                 ],
-                [InlineKeyboardButton("Developer 👨‍⚖️", url="https://t.me/@MMMM0B")],
+                [InlineKeyboardButton("Developer 👨‍⚖️", url="https://t.me/MMMM0B")],
             ]
         ),
         reply_to_message_id=update.message_id
