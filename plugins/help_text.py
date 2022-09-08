@@ -46,7 +46,7 @@ async def start(bot, update):
             [
                 [
                     InlineKeyboardButton(
-                        "Source code ⚡", url="https://github.com/mbnaw/Url-Uploader-V2"
+                        "Source code ⚡", url="https://github.com"
                     ),
                     InlineKeyboardButton("Project Channel 👨🏻‍💻", url="https://t.me/balouchmm"),
                 ],
