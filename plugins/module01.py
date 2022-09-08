@@ -55,7 +55,7 @@ async def inlineX1(bot, update, searche):
           try:
               await update.answer(results=answers, cache_time=0)
           except QueryIdInvalid:
-              await asyncio.sleep(5)
+              await asyncio.sleep(3)
           try:
               await update.answer(results=answers, cache_time=0,
               switch_pm_text="Error: Search timed out!",
@@ -102,7 +102,7 @@ async def inlineX2(bot, update, searche):
           try:
               await update.answer(results=answers, cache_time=0)
           except QueryIdInvalid:
-              await asyncio.sleep(5)
+              await asyncio.sleep(3)
           try:
               await update.answer(results=answers, cache_time=0,
               switch_pm_text="Error: Search timed out!",
@@ -151,7 +151,7 @@ async def inlineX3(bot, update, searche):
           try:
               await update.answer(results=answers, cache_time=0)
           except QueryIdInvalid:
-              await asyncio.sleep(5)
+              await asyncio.sleep(3)
           try:
               await update.answer(results=answers, cache_time=0,
               switch_pm_text="Error: Search timed out!",
@@ -195,7 +195,7 @@ async def inlineX4(bot, update, searche):
           try:
               await update.answer(results=answers, cache_time=0)
           except QueryIdInvalid:
-              await asyncio.sleep(5)
+              await asyncio.sleep(3)
           try:
               await update.answer(results=answers, cache_time=0,
               switch_pm_text="Error: Search timed out!",
