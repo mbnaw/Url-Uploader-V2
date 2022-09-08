@@ -242,7 +242,7 @@ File Size: {}""".format(url, humanbytes(total_length))
                 diff = now - start
                 if round(diff % 5.00) == 0 or downloaded == total_length:
                     percentage = downloaded * 100 / total_length
-                    speed = downloaded / diff * 1000
+                    speed = downloaded / diff
                     elapsed_time = round(diff) * 1000
                     time_to_completion = round(
                         (total_length - downloaded) / speed) * 1000
@@ -252,12 +252,10 @@ File Size: {}""".format(url, humanbytes(total_length))
 URL: {}
 File Size: {}
 Downloaded: {}
-speed: {}
 ETA: {}""".format(
     url,
     humanbytes(total_length),
     humanbytes(downloaded),
-    humanbytes(speed)
     TimeFormatter(estimated_total_time)
 )
                         if current_message != display_message:
